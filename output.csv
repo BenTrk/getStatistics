@@ -1,0 +1,83 @@
+Issue Type,Status,Average Time (ms)
+Cosmetic,Development in Progress,149hr:49min:36sec
+Cosmetic,New,860hr:55min:0sec
+Cosmetic,On Hold,506hr:32min:0sec
+Cosmetic,Ready for Development,282hr:1min:10sec
+Cosmetic,Code Review,133hr:17min:5sec
+Cosmetic sum: 1932hr:34min:53sec
+
+Task,Development in Progress,1735hr:14min:45sec
+Task,New,690hr:51min:49sec
+Task,In Review,90hr:48min:0sec
+Task,On Hold,428hr:19min:32sec
+Task,Ready for Development,0hr:0min:0sec
+Task,In Progress,142hr:10min:59sec
+Task,Code Review,2225hr:16min:20sec
+Task sum: 5312hr:41min:26sec
+
+Documentation Sub-Task,Development in Progress,165hr:9min:0sec
+Documentation Sub-Task,New,177hr:47min:30sec
+Documentation Sub-Task,In Review,51hr:10min:43sec
+Documentation Sub-Task,Ready for Development,0hr:1min:0sec
+Documentation Sub-Task,In Progress,100hr:6min:49sec
+Documentation Sub-Task,Code Review,5hr:45min:0sec
+Documentation Sub-Task sum: 500hr:0min:2sec
+
+Technical Debt,Development in Progress,228hr:19min:52sec
+Technical Debt,New,435hr:28min:0sec
+Technical Debt,Ready for Development,4hr:51min:21sec
+Technical Debt,In Progress,23hr:27min:0sec
+Technical Debt,Code Review,40hr:54min:50sec
+Technical Debt sum: 733hr:1min:5sec
+
+Epic,Development in Progress,167hr:47min:0sec
+Epic,New,2397hr:5min:43sec
+Epic,Code is Ready,46hr:53min:12sec
+Epic,Epic In Progress,974hr:18min:51sec
+Epic,Ready for PCCB,10hr:35min:35sec
+Epic,Analysis,351hr:48min:53sec
+Epic,Ready for Development,85hr:4min:30sec
+Epic,Ready for Planning,116hr:39min:0sec
+Epic,Planning,45hr:9min:53sec
+Epic,Cancellation ready for PCCB,0hr:0min:20sec
+Epic sum: 4195hr:22min:59sec
+
+Internal,Development in Progress,45hr:2min:18sec
+Internal,New,273hr:34min:24sec
+Internal,On Hold,146hr:41min:0sec
+Internal,Ready for Development,7hr:1min:23sec
+Internal,Code Review,35hr:57min:44sec
+Internal,Cancelled,0hr:5min:0sec
+Internal sum: 508hr:21min:51sec
+
+Documentation,New,818hr:40min:42sec
+Documentation,In Review,482hr:33min:15sec
+Documentation,On Hold,649hr:35min:0sec
+Documentation,In Progress,1101hr:46min:10sec
+Documentation sum: 3052hr:35min:8sec
+
+Sub-task,New,116hr:40min:15sec
+Sub-task,In Review,12hr:7min:0sec
+Sub-task,On Hold,1465hr:25min:0sec
+Sub-task,In Progress,750hr:3min:28sec
+Sub-task sum: 2344hr:15min:43sec
+
+Development Sub-Task,New,150hr:57min:0sec
+Development Sub-Task,In Progress,159hr:24min:20sec
+Development Sub-Task sum: 310hr:21min:20sec
+
+Defect,Development in Progress,862hr:48min:0sec
+Defect,New,2661hr:33min:0sec
+Defect,Ready for Development,191hr:38min:0sec
+Defect,Code Review,24hr:46min:0sec
+Defect sum: 3740hr:45min:0sec
+
+Story,Development in Progress,150hr:55min:40sec
+Story,New,481hr:56min:24sec
+Story,On Hold,875hr:55min:0sec
+Story,Ready for Development,29hr:1min:55sec
+Story,In Progress,157hr:16min:30sec
+Story,Code Review,47hr:42min:22sec
+Story sum: 1742hr:47min:53sec
+
+Number of internals: 1177
