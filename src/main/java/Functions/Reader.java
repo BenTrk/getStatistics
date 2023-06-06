@@ -29,6 +29,7 @@ public class Reader {
         Map<String, List<Row>> rawDataMapByIssueType = new HashMap<>();
         Map<String, Map<String, Long>> issueTypeStatusTimes = new HashMap<>();
         int numInternalIssues = 0;
+        HashSet<String> internals = new HashSet<>();
 
         //Get the rows by types
         for (int i = 1; i < numRows; i++) {
@@ -46,8 +47,11 @@ public class Reader {
 
             //Getting number of internals
             if (issueType.equals("Internal")) {
-                numInternalIssues++;
+                internals.add(row.getCell(1).getStringCellValue());
             }
+        }
+        for (String internal : internals){
+            numInternalIssues++;
         }
 
         // iterate through each issuetype in the map and calculate the statusTimes map values
